@@ -1,4 +1,4 @@
-# blogging-app
+# Blogging App
 
 The blogging-app which is graphql based Apis
 The Contribution Guidelines contains information (such as local development setup) for contributing to this project.
